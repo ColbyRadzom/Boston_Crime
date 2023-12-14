@@ -1,7 +1,7 @@
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import pydeck as pyd
-import altair as alt
-import calendar
-import numpy as np
+streamlit
+pandas
+matplotlib
+pydeck
+altair
+calendar
+numpy
