@@ -3,5 +3,4 @@ pandas
 matplotlib
 pydeck
 altair
-calendar
 numpy
